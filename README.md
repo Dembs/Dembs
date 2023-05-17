@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-<!--
-**Dembs/Dembs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Name is Demba and i'm actually a Data Analyst living in France 
 
 - 🔭 I’m currently working on being a full stack developper 
 - 🌱 I’m currently learning C# and JavaScript
@@ -11,4 +7,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about SAS/SQL/DATASTAGE
 - 📫 How to reach me: Demba.sy@hotmail.com
 - ⚡ Fun fact: Sleep >> ALL
--->
